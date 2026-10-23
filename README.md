@@ -15,7 +15,7 @@ Así que, como quieren mucho a su auxiliar, le ayudarán a hacer el código del 
 - Saltar, deslizarse o atacar nos costarán stamina.
 - Si nos cansamos tanto que se nos acaba la stamina, Jake será atrapado por el guardia.
 
-![Diagrama de Estados]()
+![Diagrama de Estados](Diagrama-en-blanco.png)
 
 
 
